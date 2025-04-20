@@ -36,13 +36,10 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Data\" />
-    <Folder Include="Dtos\" />
     <Folder Include="Exceptions\" />
     <Folder Include="Helpers\" />
     <Folder Include="Models\" />
     <Folder Include="Validators\" />
-    <Folder Include="Repositories\Implementations\" />
-    <Folder Include="Repositories\Interfaces\" />
     <Folder Include="Services\Implementations\" />
     <Folder Include="Services\Interfaces\" />
   </ItemGroup>
